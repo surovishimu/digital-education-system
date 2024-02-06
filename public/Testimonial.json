@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "studentName": "John Doe",
+        "image": "https://img.freepik.com/free-photo/inside-portrait-confident-young-man-white-clothes-posing-with-charming-smile-isolated-wall_291650-95.jpg?w=740&t=st=1707204111~exp=1707204711~hmac=0eb0bb3865df726483f3211253c9f3d58778aa41b08c96f9314404f8d1212c54",
+        "rating": 5,
+        "course": "Introduction to Web Development",
+        "studentsSay": "This course exceeded my expectations! The instructor was incredibly knowledgeable and made complex topics easy to understand. I highly recommend it to anyone looking to get started in web development."
+    },
+    {
+        "id": 2,
+        "studentName": "Jane Smith",
+        "image": "https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg?w=740&t=st=1707204122~exp=1707204722~hmac=9fdf88b03d02d74a34fa9b6628e43d1872607586312a935e8a7b0e3b1a2419d6",
+        "rating": 4,
+        "course": "Data Science Fundamentals",
+        "studentsSay": "I learned so much from this course! The content was well-structured and the hands-on projects were very engaging. Definitely worth the investment!"
+    },
+    {
+        "id": 3,
+        "studentName": "Michael Johnson",
+        "image": "https://img.freepik.com/free-photo/portrait-man-laughing_23-2148859448.jpg?w=740&t=st=1707204138~exp=1707204738~hmac=df1aa8e95993d5f247434cacfbfad37434ded9bbd1110e7776593c0b8f78afb0",
+        "rating": 5,
+        "course": "Machine Learning Mastery",
+        "studentsSay": "The instructor's expertise in machine learning is truly impressive. I feel confident in my abilities after completing this course, and I'm excited to apply what I've learned in real-world projects."
+    },
+    {
+        "id": 4,
+        "studentName": "Emily Brown",
+        "image": "https://img.freepik.com/free-photo/young-happy-female-student-glasses-smiling-joyful_176420-20748.jpg?w=740&t=st=1707204088~exp=1707204688~hmac=da46a8c0d05d4e0c1e459527adb3645e633d2875874b50f9246c635417b33e2a",
+        "rating": 4,
+        "course": "Graphic Design Essentials",
+        "studentsSay": "I've always had an interest in graphic design, and this course helped me turn that interest into a valuable skill. The instructor provided valuable feedback, and the course material was comprehensive."
+    },
+    {
+        "id": 5,
+        "studentName": "David Wilson",
+        "image": "https://img.freepik.com/free-photo/portrait-african-american-man_23-2149072179.jpg?w=740&t=st=1707204151~exp=1707204751~hmac=3f4337302da9fc4d94a23fe0c08218c3bb2d15980f37cfbde86d03b8f7171ca1",
+        "rating": 5,
+        "course": "Digital Marketing Strategies",
+        "studentsSay": "I've taken several digital marketing courses before, but this one stands out for its practical approach and real-world examples. I feel more confident in my ability to create effective marketing campaigns now."
+    },
+    {
+        "id": 6,
+        "studentName": "Sarah Martinez",
+        "image": "https://img.freepik.com/free-photo/beautiful-smiling-african-american-female-with-crisp-hair-broad-smile-shows-white-teeth-wears-casual-t-shirt-spectacles-stands-wall-rejoices-having-day-off-woman-journalist-indoor_273609-15511.jpg?w=740&t=st=1707204075~exp=1707204675~hmac=87e89d4d82a048cf481e76766f08099c42735cafe299536d1783e5663406f5af",
+        "rating": 4,
+        "course": "Python Programming Bootcamp",
+        "studentsSay": "As someone new to programming, I found this bootcamp to be incredibly helpful. The instructor explained concepts clearly, and the hands-on exercises helped solidify my understanding. Highly recommend!"
+    }
+]

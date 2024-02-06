@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Web Development",
+        "total_students": 120,
+        "rating": 4.5,
+        "image_url": "https://img.freepik.com/free-photo/medium-shot-woman-working-laptop_23-2150323516.jpg?w=740&t=st=1707157117~exp=1707157717~hmac=0703469369e5c337a9949066788859a9f468d97fcae9397dbd6e0ff83f819ff2",
+        "price": 129.99,
+        "description": "Learn the fundamentals of web development including HTML, CSS, and JavaScript.",
+        "credit_hour": 4
+    },
+    {
+        "id": 2,
+        "name": "UI/UX Design",
+        "total_students": 90,
+        "rating": 4.7,
+        "image_url": "https://img.freepik.com/free-photo/representations-user-experience-interface-design_23-2150038907.jpg?w=740&t=st=1707157178~exp=1707157778~hmac=652304e4663ba2cc680a481f4bc335becbd81685174c3305afa9dc06f6c2c7fb",
+        "price": 139.99,
+        "description": "Explore the principles of user interface and user experience design.",
+        "credit_hour": 5
+    },
+    {
+        "id": 3,
+        "name": "Mobile App Development",
+        "total_students": 80,
+        "rating": 4.3,
+        "image_url": "https://img.freepik.com/free-photo/representation-user-experience-interface-design-smartphone_23-2150165977.jpg?w=740&t=st=1707157207~exp=1707157807~hmac=6f8c71adbd3b6a9654c42744600958d898ec7e1e24b493aeccbee854fa16da3b",
+        "price": 149.99,
+        "description": "Build mobile applications for iOS and Android platforms using native and cross-platform frameworks.",
+        "credit_hour": 5
+    },
+    {
+        "id": 4,
+        "name": "Data Science",
+        "total_students": 100,
+        "rating": 4.6,
+        "image_url": "https://img.freepik.com/free-photo/man-using-tablet-work-connect-with-others_23-2149369110.jpg?w=740&t=st=1707157228~exp=1707157828~hmac=6604708f6fa6fc42a546b4693e317d39a7e5456d1293ec989ea81324dbe84ff0",
+        "price": 159.99,
+        "description": "Learn to analyze and interpret complex data to make data-driven decisions.",
+        "credit_hour": 6
+    },
+    {
+        "id": 5,
+        "name": "Cybersecurity",
+        "total_students": 85,
+        "rating": 4.4,
+        "image_url": "https://img.freepik.com/free-photo/standard-quality-control-collage-concept_23-2149595831.jpg?w=740&t=st=1707157246~exp=1707157846~hmac=8e45939d37defc85c69ec9f04636195c852303c2a277725077a77c7f5d3668a5",
+        "price": 169.99,
+        "description": "Protect computer systems, networks, and data from cyber attacks.",
+        "credit_hour": 5
+    },
+    {
+        "id": 6,
+        "name": "Cloud Computing",
+        "total_students": 110,
+        "rating": 4.8,
+        "image_url": "https://img.freepik.com/free-photo/saas-concept-collage_23-2149399281.jpg?w=740&t=st=1707157267~exp=1707157867~hmac=c944c4e1668fc518709dd4b3ddab647c173bb1244458ff3c7255256cfefa5637",
+        "price": 179.99,
+        "description": "Explore cloud computing technologies and services such as AWS, Azure, and Google Cloud.",
+        "credit_hour": 4
+    },
+    {
+        "id": 7,
+        "name": "Machine Learning",
+        "total_students": 70,
+        "rating": 4.6,
+        "image_url": "https://img.freepik.com/premium-photo/future-artificial-intelligence-robot-cyborg_31965-6980.jpg?w=740",
+        "price": 189.99,
+        "description": "Study algorithms and statistical models to perform tasks without explicit instructions.",
+        "credit_hour": 4
+    },
+    {
+        "id": 8,
+        "name": "Blockchain Development",
+        "total_students": 95,
+        "rating": 4.5,
+        "image_url": "https://img.freepik.com/free-photo/cardano-blockchain-platform-with-laptop_23-2150278285.jpg?w=740&t=st=1707157312~exp=1707157912~hmac=057d03403d1a395514d6bb711a8083f790cffc5f43de6430a6f9842474c9da95",
+        "price": 199.99,
+        "description": "Learn to develop decentralized applications and smart contracts using blockchain technology.",
+        "credit_hour": 4
+    }
+]
