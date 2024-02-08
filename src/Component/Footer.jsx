@@ -32,7 +32,7 @@ const Footer = () => {
                 </div>
 
                 <div>
-                    <h1 className="mx-auto text-lg font-serif font-semibold text-gray-700">
+                    <h1 className="mx-auto text-lg font-serif font-semibold  w-36 text-yellow-500">
                         <IoLocationOutline className="mx-auto h-10 w-10 text-yellow-500" />
                         Postal Address
                     </h1>
@@ -46,7 +46,7 @@ const Footer = () => {
                 </div>
 
                 <div>
-                    <h1 className="mx-auto text-lg font-serif font-semibold text-gray-700">
+                    <h1 className="mx-auto text-lg font-serif font-semibold text-yellow-500 w-40">
                         <FiPhone className="mx-auto h-10 w-10 text-yellow-500" />
                         Phone & E-mail
                     </h1>

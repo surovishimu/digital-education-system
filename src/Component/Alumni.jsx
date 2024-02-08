@@ -22,7 +22,7 @@ const Alumni = () => {
     };
 
     return (
-        <div  id="testimonials" className="bg-gradient-to-r from-yellow-200 to-yellow-300 p-8">
+        <div id="testimonials" className="bg-gradient-to-r from-yellow-200 to-yellow-300 p-8 mt-24">
             <h1 className="text-3xl font-bold text-gray-800 text-center mb-4">Voices of Success</h1>
             <p className="text-lg text-gray-700 text-center">
                 Inspiring Testimonials from Our Successful Students

@@ -10,7 +10,7 @@ import Teachers from "./Component/Teachers"
 import './App.css'
 function App() {
   return (
-    <div className="font-greatVive">
+    <div className="font-greatVive bg-white dark:bg-gray-400  dark:text-black">
       <Navbar></Navbar>
       <Banner></Banner>
       <About></About>

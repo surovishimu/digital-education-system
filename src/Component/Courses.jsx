@@ -20,7 +20,7 @@ const Courses = () => {
     };
 
     return (
-        <div id='courses' className="bg-yellow-50 px-10 py-10">
+        <div id='courses' className="bg-yellow-50 px-10 py-10 lg:mt-0 md:mt-36 mt-10">
             <div>
                 <h1 className="text-4xl text-center mt-8 pt-5 font-semibold text-gray-700">Discover Our Top <span className="text-yellow-400">Courses</span></h1>
             </div>

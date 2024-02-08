@@ -24,7 +24,7 @@ const Course = ({ course }) => {
     };
 
     return (
-        <div  data-aos="flip-left"
+        <div data-aos="flip-left"
             data-aos-easing="ease-out-cubic"
             data-aos-duration="2000" className="h-full">
 
@@ -34,7 +34,7 @@ const Course = ({ course }) => {
                 </figure>
                 <div className="card-body text-start px-5 flex-grow flex flex-col">
                     <div>
-                        <h2 className="text-md font-bold">{name}</h2>
+                        <h2 className="text-md font-bold dark:text-yellow-400">{name}</h2>
                         <small className='text-stone-400'>{description}</small>
                     </div>
                     <div className="mt-3 flex justify-between items-center -mb-10">
